@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"map01","text":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<tileset name=\"map01\" tilewidth=\"32\" tileheight=\"32\" tilecount=\"864\" columns=\"24\">\r\n <grid orientation=\"orthogonal\" width=\"64\" height=\"64\"/>\r\n <image source=\"map01.png\" width=\"780\" height=\"1179\"/>\r\n</tileset>\r\n"}

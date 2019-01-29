@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"SF_Outside_A3","text":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<tileset name=\"SF_Outside_A3\" tilewidth=\"24\" tileheight=\"24\" tilecount=\"512\" columns=\"32\">\r\n <image source=\"d:/Users/yin_h/Documents/Games/Project1/img/tilesets/SF_Outside_A3.png\" width=\"768\" height=\"384\"/>\r\n</tileset>\r\n"}
